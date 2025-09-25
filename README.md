@@ -30,5 +30,4 @@ Predict stock prices using **LSTM** and technical indicators with an interactive
 - **ta** (Technical Indicators)
 
 ---
-git clone https://github.com/yourusername/Ultimate-Stock-Predictor.git
-cd Ultimate-Stock-Predictor
+
